@@ -1,8 +1,8 @@
 # iruka
 
-**software 1.0 programs**
+![](./iruka.png)
 
-- zero allocations
+**software 1.0 programs: correct and concurrent**
 
 ### Resources
 - Erickson
